@@ -5,9 +5,8 @@
 Me chamo **Maiara Barbosa** e estou no início da minha jornada como **desenvolvedora frontend**. Estou migrando do **design gráfico para o desenvolvimento web** e estudando diariamente para conquistar minha primeira oportunidade na área.  
 
 🎓 **Formação**
-- Bacharel em Design pela **UFPE**  
-- Graduanda em **Análise e Desenvolvimento de Sistemas** na **Anhanguera**  
-
+- Bacharel em Design pela **UFPE**
+- Cursando Sistemas de Informação pela **UFRPE**
 
 💡 **Atualmente**  
 Aprendendo as bases do **Frontend** e construindo projetos para reforçar meus conhecimentos.  
